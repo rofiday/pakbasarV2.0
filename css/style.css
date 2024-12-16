@@ -89,7 +89,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(/assets/img/pakBasar.jpg);
+  background-image: url(../assets/img/pakBasar.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
